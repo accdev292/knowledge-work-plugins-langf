@@ -1,7 +1,7 @@
 {
-  "name": "knowledge-work-plugins",
+  "name": "knowledge-work-plugins-langf",
   "owner": {
-    "name": "Anthropic"
+    "name": "accdev292"
   },
   "plugins": [
     {
